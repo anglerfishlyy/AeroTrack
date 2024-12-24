@@ -32,14 +32,7 @@ function App() {
           onComponentDeleted={fetchComponents}
         />
       </Container>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <br/>
-      <> dude , what will you use at "Zie... Ae...."(company) to <div style={{ color: 'red' }}>track components</div> over there ? How will it work and how <div style={{ color: 'red' }}>bigg</div> is it ? 
-      </>
+     
     </div>
   );
 }
